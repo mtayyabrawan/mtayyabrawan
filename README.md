@@ -60,28 +60,28 @@
 
 <h3 align="center">📊 Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Tayyab-Awan&theme=react&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Tayyab-Awan&theme=react&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Tayyab-Awan&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mtayyabrawan&theme=react&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mtayyabrawan&theme=react&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtayyabrawan&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=Muhammad-Tayyab-Awan&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=mtayyabrawan&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 
 <h3 align="center">🎖 Badges</h3>
 <p align="center">
-  <a href="https://user-badge.committers.top/pakistan/Muhammad-Tayyab-Awan">
-    <img src="https://user-badge.committers.top/pakistan/Muhammad-Tayyab-Awan.svg" alt="Pakistan Committers Badge" />
+  <a href="https://user-badge.committers.top/pakistan/mtayyabrawan">
+    <img src="https://user-badge.committers.top/pakistan/mtayyabrawan.svg" alt="Pakistan Committers Badge" />
   </a>
 </p>
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Tayyab-Awan&bg_color=000105&color=ffffff&line=37a939&point=0e7500&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mtayyabrawan&bg_color=000105&color=ffffff&line=37a939&point=0e7500&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
