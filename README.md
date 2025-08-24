@@ -67,7 +67,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mtayyabrawan" alt="GitHub Stats" />
   <img src="http://github-readme-streak-stats.herokuapp.com?user=mtayyabrawan" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtayyabrawan" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtayyabrawan&layout=compact&langs_count=20" alt="Top Languages" />
 </p>
 
 
