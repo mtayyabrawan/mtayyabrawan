@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="./assets/images/flags.png" style="width: 100%; height: auto;"/>
 <img src="./assets/images/myPhoto.jpg" height="150"/>
 </div>
 <h1 align="center">✨ محمد طیب ✨</h1>
