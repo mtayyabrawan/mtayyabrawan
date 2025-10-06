@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">✨ Muhammad Tayyab ✨</h1>
 <h1 align="center"> Free Palestine </h1>
-<h3 align="center">MERN Stack Developer &nbsp;&nbsp;|&nbsp;&nbsp; WordPress Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 
 <h4 align="center">
