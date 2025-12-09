@@ -64,11 +64,8 @@
 
 <h3 align="center">📊 Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mtayyabrawan" alt="GitHub Stats" />
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=mtayyabrawan" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtayyabrawan&layout=compact&langs_count=20" alt="Top Languages" />
+<a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=mtayyabrawan&theme=dark" alt="GitHub Streak" /></a>
 </p>
-
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
