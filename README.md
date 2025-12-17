@@ -65,6 +65,8 @@
 <h3 align="center">📊 Stats</h3>
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=mtayyabrawan&theme=dark" alt="GitHub Streak" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=mtayyabrawan"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtayyabrawan&langs_count=50&layout=donut-vertical"/>
 </p>
 
 <h3 align="center">🏆 GitHub Trophies</h3>
